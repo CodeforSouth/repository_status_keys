@@ -2,10 +2,12 @@
 Key for Repo Statuses
 
 
-✅ - Live, Maintained 
+⚡️✅  - Live, Maintained 
 
-⚡️😴 - Live, Unmaintained 
+⚡️😴  - Live, Unmaintained 
 
-⚡️🚧 - Live, Under Construction 
+⚡️🚧  - Live, Under Construction 
 
-😴 - Unmaintained
+❄️😴  - Offline, Unmaintained
+
+❄️💀  - Offline, Deprecated
