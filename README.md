@@ -2,9 +2,9 @@
 Key for Repo Statuses
 
 
-✅ - Live, Maintained 
+✅ - Live, Maintained(latest commit is < 6 months old)
 
-⚡️😴 - Live, Unmaintained 
+⚡️😴 - Live, Unmaintained(latest commit is > 6 months old) 
 
 ⚡️🚧 - Live, Under Construction 
 
